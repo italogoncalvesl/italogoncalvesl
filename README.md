@@ -1,4 +1,5 @@
 ## Prazer, Italo Gonçalves!
+# Cuso o 5º semestre de Sistema de Informação, estou buscandoa 1º oportunidade na área. Gosto muito de desenvolvimento mobile, com foco no front-end, além de produzir interfaces no Figma!
 
 <div align="start">
   <a href="https://github.com/italogoncalvesl">
