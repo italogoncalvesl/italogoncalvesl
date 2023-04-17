@@ -1,11 +1,6 @@
 ## Prazer, Italo Gonçalves!
-# Cuso o 5º semestre de Sistema de Informação, estou buscandoa 1º oportunidade na área. Gosto muito de desenvolvimento mobile, com foco no front-end, além de produzir interfaces no Figma!
+Cuso o 5º semestre de Sistema de Informação, estou buscandoa 1º oportunidade na área. Gosto muito de desenvolvimento mobile, com foco no front-end, além de produzir interfaces no Figma!
 
-<div align="start">
-  <a href="https://github.com/italogoncalvesl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italogoncalvesl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italogoncalvesl&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
   ### Principais Tecnologias
 <div style="display: inline_block">
