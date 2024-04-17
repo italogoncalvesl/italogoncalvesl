@@ -1,5 +1,5 @@
 ## Prazer, Italo Gonçalves!
-<h3> Cuso o 6º semestre de Sistema de Informação, estou buscandoa 1º oportunidade na área. Gosto muito de desenvolvimento mobile, com foco no front-end, além de produzir interfaces no Figma!
+<h3> Trabalho como desenvolvedor frot-end com aplicações Web e Mobile. Atualmente faço bacharelado em Sistemas de Informação, estou finalizando esse ano!
 
 
   ### Principais Tecnologias
